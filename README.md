@@ -34,7 +34,7 @@ top
 
 
 ### ✅ 예시 / 출력 결과
-![top 명령어 화면](img/top_example.png)
+![top 명령어 화면](./img/top_example.png)
 
 
 ---
