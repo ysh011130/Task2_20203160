@@ -33,7 +33,7 @@ top
 
 
 ### ✅ 예시 / 출력 결과
-![top 명령어 화면](./img/top_example.PNG)
+![top 명령어 화면](./img/top_example.png)
 
 
 ---
@@ -60,7 +60,7 @@ ps
 
 
 ### ✅ 예시 / 출력 결과
-![ps 명령어 화면](./img/ps_example.PNG)
+![ps 명령어 화면](./img/ps_example.png)
 
 
 ---
@@ -86,7 +86,7 @@ jobs
 
 
 ### ✅ 예시 / 출력 결과
-![ps 명령어 화면](./img/jobs_example.PNG)
+![ps 명령어 화면](./img/jobs_example.png)
 
 
 ---
@@ -113,7 +113,7 @@ kill <pid>
 
 
 ### ✅ 예시 / 출력 결과
-![ps 명령어 화면](./img/kill_example.PNG)
+![ps 명령어 화면](./img/kill_example.png)
 
 
 ---
